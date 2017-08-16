@@ -11,8 +11,8 @@ describe('/k/v1/record.json GET测试', function () {
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
       .set('Content-Type', 'application/json')
       .send({
-        "app": app,
-        "id": id
+        "app": app.app,
+        "id": app.id
       })
       .expect(200) //返回值response为200
       .end(function (err, res) {

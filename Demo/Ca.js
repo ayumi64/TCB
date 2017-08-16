@@ -1,4 +1,4 @@
-// Caculator.js
+// Ca.js
 
 module.exports.add =
     function add(x, y) {
