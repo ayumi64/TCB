@@ -15,7 +15,4 @@ function subtract(x,y){
     return x - y;
 }
 
-module.exports = add;
-module.exports = multiply;
-module.exports = divide;
-module.exports = subtract;
+module.exports = Caculator;
