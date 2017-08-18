@@ -1,6 +1,4 @@
-var json=
-
-'{
+{
     "app": 1,
     "records": [
         {
@@ -20,9 +18,4 @@ var json=
             }
         }
     ]
-}'
-
-
-
-
-exports.json = json;
+}

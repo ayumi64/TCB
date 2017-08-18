@@ -1,29 +1,34 @@
 // Caculator.test.js
 
-var hahaha = require('./Caculator.js');
+var Caculator = require('./Caculator.js');
 var expect = require('chai').expect;
-var data = require('./data.js');
+var data = require('./Caculator.data.js');
 
 describe('加法函数的测试', function () {
-  it('1 加 1 应该等于 2', function () {
-    expect(hahaha.add(1, 1)).to.be.equal(2);
+  it('x1 加 y1 应该等于 z1', function () {
+    expect(Caculator.add(data.x1, data.y1)).to.be.equal(data.z1);
   });
 });
 
 describe('乘法函数的测试', function () {
-  it('5 x 7 应该等于 35', function () {
-    expect(hahaha.multiply(5, 7)).to.be.equal(35);
+  it('x2 乘 y2 应该等于 z2', function () {
+    expect(Caculator.multiply(data.x2, data.y2)).to.be.equal(data.z2);
   });
 });
 
 describe('除法函数的测试', function () {
-  it('9 除以 3 应该等于 3', function () {
-    expect(hahaha.divide(9, 3)).to.be.equal(3);
+  it('x3 除 y3 应该等于 z3', function () {
+    expect(Caculator.divide(data.x3, data.y3)).to.be.equal(data.z3);
   });
 });
 
 describe('减法函数的测试', function () {
-  it('8 减 1 不等于 9', function () {
-    expect(hahaha.substract(8, 1)).not.to.be.equal(9);
+  it('x4 减 y4 应该等于 z4', function () {
+    expect(Caculator.substract(data.x4, data.y4)).to.be.equal(data.z4);
   });
+});
+describe('减法函数的测试', function () {
+  it('x5 减 y5 不应该等于 z5', function () {
+    expect(Caculator.substract(data.x5, data.y5)).not.to.be.equal(data.z5);
+  })
 })

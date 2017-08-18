@@ -1,18 +1,16 @@
 var api = require('./API.js');
 var expect = require('chai').expect;
 var app = require('./data.js');
-var id = require('./data.js');
 
-
-describe('Record', function () {
+describe('/k/v1/record.json PUT测试', function () {
 
   before(function (done) {
     api.put('')
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
       .set('Content-Type', 'application/json')
       .send({
-        "app": app,
-        "id": id,
+        "app": app.app,
+        "id": app.id,
         "record": {
           "売上": { "value": "1234567" },
           "天気": { "value": "雨" },
@@ -28,12 +26,12 @@ describe('Record', function () {
       })
   })
 
-  it('添加一条记录并验证结果', function (done) {
+  it('更新记录并验证结果', function (done) {
     api.get('')
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
       .send({
-        'app': app,
-        'id': id
+        'app': app.app,
+        'id': app.id
       })
       .expect(200) //返回值response为200
       .end(function (err, res) {
