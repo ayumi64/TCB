@@ -13,7 +13,7 @@ describe('/k/v1/record.json GET ERROR测试', function () {
       .end(function (err, res) {
         if (err) return done(err);
       
-      expect(res.body).to.exist("not found")
+        expect(res.body.code).to.include("CB_VA01")
         done(); //告诉mocha结束测试
       })
   })

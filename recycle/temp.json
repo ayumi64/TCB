@@ -1,0 +1,3031 @@
+{
+    "records": [
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "50"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90111113456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "50"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "49"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "49"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "48"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90111113456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "48"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "47"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:25:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "47"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "46"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:21:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90111113456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:21:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "46"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "45"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:21:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:21:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "45"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "44"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "晴れ"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:20:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:20:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "44"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "43"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "晴れ"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:20:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:20:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "43"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "42"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:18:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "90111113456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:18:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "42"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "41"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:18:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:18:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "41"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "40"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "111113456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "40"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "39"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "39"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "38"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "111113456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "38"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "37"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T03:17:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "37"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "36"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": 5148
+    "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T02:46:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-17T02:46:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-17"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "36"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "33"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-16T06:16:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-16T06:16:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-16"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "33"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "32"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-16T06:12:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-16T06:12:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-16"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "32"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "31"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T10:10:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T10:10:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "31"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "30"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T10:10:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T10:10:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "30"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "28"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:57:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:57:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "28"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "27"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:55:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:55:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "27"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "25"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:52:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:52:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "25"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "24"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:50:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:50:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "24"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "23"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:49:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:49:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "23"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "22"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:48:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:48:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "22"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "21"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:48:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:48:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "21"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "20"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:47:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:47:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "20"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "19"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T07:44:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T07:44:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "19"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "16"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T06:45:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T06:45:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "16"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "15"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T06:29:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "AAA"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T06:29:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "15"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "12"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "晴れ"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T06:00:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "123456"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T06:00:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "12"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "9"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "晴れ"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T05:47:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T05:47:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "9"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "7"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "晴れ"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T05:38:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T05:38:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "7"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "6"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "晴れ"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "1"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-15T05:37:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T05:37:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": "2017-08-15"
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "6"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "5"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "2"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-17T02:46:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "1234567"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "BBB"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-15T05:36:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": null
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "5"
+            }
+        },
+        {
+            "レコード番号": {
+                "type": "RECORD_NUMBER",
+                "value": "1"
+            },
+            "天気": {
+                "type": "RADIO_BUTTON",
+                "value": "雨"
+            },
+            "更新者": {
+                "type": "MODIFIER",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "予算": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "作成者": {
+                "type": "CREATOR",
+                "value": {
+                    "code": "cybozu",
+                    "name": "cybozu"
+                }
+            },
+            "お客様数": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "店舗": {
+                "type": "DROP_DOWN",
+                "value": null
+            },
+            "$revision": {
+                "type": "__REVISION__",
+                "value": "11"
+            },
+            "前年": {
+                "type": "NUMBER",
+                "value": ""
+            },
+            "更新日時": {
+                "type": "UPDATED_TIME",
+                "value": "2017-08-16T06:31:00Z"
+            },
+            "計算_0": {
+                "type": "CALC",
+                "value": ""
+            },
+            "計算_1": {
+                "type": "CALC",
+                "value": ""
+            },
+            "売上": {
+                "type": "NUMBER",
+                "value": "1234567"
+            },
+            "その他連絡事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": ""
+            },
+            "引継ぎ事項": {
+                "type": "MULTI_LINE_TEXT",
+                "value": "BBB"
+            },
+            "作成日時": {
+                "type": "CREATED_TIME",
+                "value": "2017-08-14T07:43:00Z"
+            },
+            "計算": {
+                "type": "CALC",
+                "value": ""
+            },
+            "日付": {
+                "type": "DATE",
+                "value": null
+            },
+            "$id": {
+                "type": "__ID__",
+                "value": "1"
+            }
+        }
+    ],
+    "totalCount": null
+}
+    0
