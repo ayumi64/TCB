@@ -12,9 +12,6 @@ exports.config = {
       //  services: ['selenium-standalone'],
         host: '127.0.0.1',
         port: 4444,
-        capabilities: [{
-            browserName: 'firefox'
-        }],
     
     
         /**

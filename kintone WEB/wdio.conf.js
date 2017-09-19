@@ -100,6 +100,12 @@ exports.config = {
     
             console.log('that\'s it');
     
+        },
+
+        before: function() {
+            var chai = require('chai');
+            global.expect = chai.expect;
+            chai.Should();
         }
     
     };
