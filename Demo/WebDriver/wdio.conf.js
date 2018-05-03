@@ -22,7 +22,7 @@ exports.config = {
     
         specs: [
     
-            './test.js'
+            './login.js'
     
         ],
     

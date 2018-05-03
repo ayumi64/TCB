@@ -25,7 +25,7 @@ exports.config = {
     
         specs: [
     
-            './Login/login.js'
+            './Login/test/test.js'
     
         ],
     
@@ -58,7 +58,7 @@ exports.config = {
     
         screenshotPath: 'shots',
     
-        baseUrl: 'http://webdriver.io',
+        baseUrl: '',
     
         waitforTimeout: 10000,
     
@@ -92,13 +92,13 @@ exports.config = {
     
         onPrepare: function() {
     
-            console.log('let\'s go');
+            console.log('Yhgao\'s Test let\'s go');
     
         },
     
         onComplete: function() {
     
-            console.log('that\'s it');
+            console.log('that\'s ok');
     
         },
 

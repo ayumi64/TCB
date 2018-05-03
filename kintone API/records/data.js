@@ -13,12 +13,12 @@ module.exports.put2 = '6';  //record id
 
 //测试数据 record详细
 module.exports.code1 = "売上";  //字段code
-module.exports.type1 = "";  //字段type
+module.exports.type1 = "Number";  //字段type
 module.exports.value1_1 = "90123456";  //字段value
 module.exports.value1_2 = "90111113456";  //字段value
 
 module.exports.code2 = "天気";  //字段code
-module.exports.type2 = "";  //字段type
+module.exports.type2 = "TEXT";  //字段type
 module.exports.value2_1 = "雨";  //字段value
 module.exports.value2_2 = "晴れ";  //字段value
 

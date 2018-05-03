@@ -1,0 +1,32 @@
+{
+    "body": {
+        "users": [
+            {
+                "birthDay": "",
+                "callto": "cybozu1",
+                "code": "cybozu1",
+                "description": "cybozu1",
+                "email": "jane-fujioka@gmail.com",
+                "employeeNumber": "cybozu1",
+                "extensionNumber": "cybozu1",
+                "givenName": "cybozu1",
+                "givenNameReading": "cybozu1",
+                "joinDate": "",
+                "localName": "cybozu1",
+                "localNameLocale": "en",
+                "locale": "ja",
+                "mobilePhone": "cybozu1",
+                "name": "cybozu1",
+                "password": "🍺",
+                "phone": "cybozu1",
+                "sortOrder": "",
+                "surName": "cybozu1",
+                "surNameReading": "cybozu1",
+                "timezone": "Asia/Tokyo",
+                "url": "http://about.me/jane-fujioka",
+                "valid": true
+            }
+        ]
+    },
+    "json": true
+}

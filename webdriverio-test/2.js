@@ -1,4 +1,9 @@
 var assert = require('assert');
+var options = {
+    desiredCapabilities: {
+        browserName: 'firefox'
+    }
+};
 
 describe('webdriver.io page', function() {
     it('should have the right title - the fancy generator way', function () {
