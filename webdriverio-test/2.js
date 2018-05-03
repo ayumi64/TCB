@@ -1,7 +1,7 @@
 var assert = require('assert');
 var options = {
     desiredCapabilities: {
-        browserName: 'firefox'
+        browserName: 'chrome'
     }
 };
 

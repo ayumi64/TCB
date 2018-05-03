@@ -11,7 +11,7 @@ it('should return a 200 response', function(done){
   .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
   .set('Content-Type', 'application/json')
   .send({
-  "app":1,
+  "app":217,
   "record": {
     "売上": {"value": "123456"},
      "天気":{"value":"雨"},

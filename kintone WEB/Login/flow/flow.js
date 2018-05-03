@@ -9,7 +9,7 @@ class Login {
     }
 
     openBrowser() {
-        browser.url("http://yhgao.cybozu-dev.com");
+        browser.url("https://yhgao.cybozu-dev.com");
         return this;
     }
 
