@@ -10,7 +10,7 @@ describe('Record', function () {
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
       .set('Content-Type', 'application/json')
       .send({
-        "app": 1,
+        "app": 217,
         "record": {
           "売上": { "value": "123456" },
           "天気": { "value": "雨" },
@@ -29,7 +29,7 @@ describe('Record', function () {
     api.get('')
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
       .send({
-        'app': 1,
+        'app': 217,
         'id': location
       })
       .expect(200) //返回值response为200

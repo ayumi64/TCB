@@ -5,7 +5,7 @@ describe('Record', function(){
 
 
 it('should return a 200 response', function(done){
-  api.get('?app=1&id=1')
+  api.get('?app=217&id=1')
   .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
   .expect(200) //返回值response为200
   .end(function(err, res){
