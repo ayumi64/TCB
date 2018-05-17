@@ -16,6 +16,3 @@ module.exports.substract =
     function substract(x, y) {
         return x - y;
     };
-
-
-
