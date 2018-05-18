@@ -1,7 +1,0 @@
-{
-    "url": "/v1/users/services.json",
-    "headers": {
-        "X-Cybozu-Authorization": "Y3lib3p1OmN5Ym96dQ==",
-        "Content-type": "application/json"
-    }
-}
