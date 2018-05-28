@@ -8,7 +8,8 @@ let data = [
      "users":"cybozu",
      'private':'true',
      "MultiThread":'true',
-     'Exit':'true'
+     'Exit':'true',
+     'POSITION':3
  }
 }
 ]

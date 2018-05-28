@@ -1,6 +1,6 @@
 const kintone_portal = '//*[@id="contents-body-ocean"]/div/div[1]/div/h2/span'
 const kintone_portal_Create0 = '.gaia-argoui-coveroptionmenubutton'
-const kintone_portal_Create_pulldown = '.gaia-argoui-pulldown-item-text'
+const kintone_portal_Create_pulldown_NewSpace = '//div[@class="gaia-argoui-pulldown-item"][position()=1]'
 const kintone_SpaceCreate_Scratch = '/html/body/*/div[2]/div[1]/ul/li[1]/a/span[1]/span/span'
 
 const Space_name = '//div//input[@class="input-text-cybozu" and contains(@id,"name-")]'
@@ -17,7 +17,7 @@ class SpaceCreate {
     }
 
     clickSpaceCreateBtn() {
-        $(kintone_portal_Create_pulldown).click();
+        $(kintone_portal_Create_pulldown_NewSpace,position).click();
         return this;
     }
 
@@ -26,7 +26,7 @@ class SpaceCreate {
         return this;
     }
 
-    inputSpaceName(Space_name) {
+    inputSpaceName(SpaceName) {
         $(Space_name).setValue(SpaceName);
         return this;
     }

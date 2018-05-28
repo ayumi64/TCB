@@ -9,7 +9,7 @@ const slash_btn = '/html/body/div[5]/div/div[1]/div/a[1]'
 const kintone_btn = '/html/body/div[5]/div/div[1]/div/a[4]/img'
 const kintone_portal = '//*[@id="contents-body-ocean"]/div/div[1]/div/h2/span'
 const kintone_portal_Create0 = '.gaia-argoui-coveroptionmenubutton'
-const kintone_portal_SpaceCreate_Class = '//span[@class="gaia-argoui-pulldown-item-text"]'
+const kintone_portal_SpaceCreate_Class = '//div[@class="gaia-argoui-pulldown-item"][position()=1]'
 const kintone_portal_SpaceCreate_Xpath = '//*[@id=":1f"]/div/span'
 const kintone_portal_SpaceCreate_Element = '.gaia-argoui-pulldown-item-text'
 const kintone_portal_GuestSpaceCreate_Xpath = '//*[@id=":u"]'
@@ -31,6 +31,7 @@ const logout = '//*[@id="account-box-cybozu"]/ul[2]/li/a'
 
 describe('Kintone Login Test', function () {
     it('Space Title Test', function () {
+
         browser.url("https://yhgao.cybozu-dev.com");
         browser.setValue(username, 'u1');
         browser.setValue(password, '1');
@@ -41,7 +42,7 @@ describe('Kintone Login Test', function () {
         browser.click(kintone_portal_Create0)
         var text = browser.getText(kintone_portal_SpaceCreate_Element);
         console.log(text);
-        browser.click(kintone_portal_SpaceCreate_Class,[1]);
+        browser.click(kintone_portal_SpaceCreate_Class);
         browser.pause(500)
         var text = browser.getText('.ocean-space-template-name');
         console.log(text);

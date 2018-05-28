@@ -9,6 +9,7 @@ class SpaceCreate {
 
     constructor(data) {
         this.SpaceName = data.SpaceName;
+        this.POSITION = data.POSITION;
     }
 
     openBrowser() {
@@ -31,8 +32,10 @@ class SpaceCreate {
         SpaceCreatePage.clickCreateBtn()
         browser.pause(500)
         SpaceCreatePage.clickSpaceCreateBtn()
-            .clickScratchBtn()
-            .inputSpaceName(this.SpaceName)
+        browser.pause(500)
+        SpaceCreatePage.clickScratchBtn()
+        browser.pause(500)
+        SpaceCreatePage.inputSpaceName(this.SpaceName)
             .inputProperty_private()
             .inputProperty_multiple()
             .inputProperty_fixedmember()
