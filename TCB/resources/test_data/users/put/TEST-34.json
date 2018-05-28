@@ -1,0 +1,11 @@
+{
+    "body": {
+        "users": [
+            {
+                "code": "user1",
+                "surName": "<img src=/ onerror=alert(1)>"
+            }
+        ]
+    },
+    "json": true
+}

@@ -1,0 +1,12 @@
+{
+    "body": {
+        "users": [
+            {
+                "password": "cybozu",
+                "code": "' and 'a'='b",
+                "name": "' and 'a'='b"
+            }
+        ]
+    },
+    "json": true
+}

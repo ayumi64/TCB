@@ -55,7 +55,7 @@ exports.config = {
     
         screenshotPath: 'shots',
     
-        baseUrl: 'http://webdriver.io',
+        baseUrl: 'http://yhgao.cybozu-dev.com',
     
         waitforTimeout: 10000,
     
