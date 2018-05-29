@@ -60,11 +60,9 @@ exports.config = {
     
         baseUrl: '',
     
-        waitforTimeout: 10000,
+        waitforTimeout: 900000,
     
         framework: 'mocha',
-    
-    
     
         reporters: ['dot'],
     
@@ -74,15 +72,11 @@ exports.config = {
     
         },
     
-    
-    
         mochaOpts: {
-    
+            timeout: 900000,
             ui: 'bdd'
     
         },
-    
-    
     
         /**
     

@@ -17,7 +17,7 @@ class SpaceCreate {
     }
 
     clickSpaceCreateBtn() {
-        $(kintone_portal_Create_pulldown_NewSpace,position).click();
+        $(kintone_portal_Create_pulldown_NewSpace).click();
         return this;
     }
 

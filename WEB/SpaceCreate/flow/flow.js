@@ -40,7 +40,16 @@ class SpaceCreate {
             .inputProperty_multiple()
             .inputProperty_fixedmember()
             .clickSpaceSave()
+        browser.pause(1000)
         return this;
+    }
+
+    verifyTittle() {
+        browser.pause(1000)
+        let expectedTittle = 'Space_Multi'
+        let actualTittle = browser.getText('.gaia-argoui-space-spacelayout-title')
+        expect(actualTittle).to.equal(expectedTittle)
+        console.log("Tittle =", actualTittle )
     }
 
 }

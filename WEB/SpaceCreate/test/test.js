@@ -8,7 +8,7 @@ describe('Kintone Login Test', function () {
     let testLogin = TestData_Login.get('login').info;
     let testSpaceCreate = TestData_Space.get('SpaceCreateMulti').info;
 
-    it('Space Title Test', function () {
+    it('Login', function () {
 
         let testFlow = new LoginFlow(testLogin)
 
@@ -23,6 +23,7 @@ describe('Kintone Login Test', function () {
 
             testSpaceCreateFlow
                 .Create()
+                .verifyTittle()
 
         }
         )
