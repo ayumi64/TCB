@@ -1,13 +1,16 @@
 var api = require('./API.js');
 var expect = require('chai').expect;
 var app = require('./data.js');
+request = require('superagent');
+require('superagent-proxy')(request);
 
 describe('/k/v1/record.json POST测试', function () {
 
   before(function (done) {
-    api.post('')
+    request.post('')
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
       .set('Content-Type', 'application/json')
+      .proxy('http://dc-ty3-squid-1.cb.local:3128')
       .send({
         "app": app.app,
         "record": {
@@ -16,7 +19,6 @@ describe('/k/v1/record.json POST测试', function () {
           "引継ぎ事項": { "value": "AAA" }
         }
       })
-      .expect(200)
       .end(function (err, res) {
         if (err) return done(err);
         location = res.body.id;
@@ -25,13 +27,13 @@ describe('/k/v1/record.json POST测试', function () {
   })
 
   it('添加一条记录并验证值', function (done) {
-    api.get('')
+    request.get('')
       .set('X-Cybozu-Authorization', 'Y3lib3p1OmN5Ym96dQ==')
+      .proxy('http://dc-ty3-squid-1.cb.local:3128')
       .send({
         'app': app.app,
         'id': location
       })
-      .expect(200) //返回值response为200
       .end(function (err, res) {
         if (err) return done(err);
         expect(res.body.record).to.have.property('天気')

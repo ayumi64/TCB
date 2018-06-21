@@ -32,7 +32,7 @@ describe('Bug再现确认', function () {
         expect(Space_Noti).to.has.string('notifications_56.png')
         console.log("Space nofitication icon 包含 'notifications_56.png'")
         expect(Portal_Noti).to.not.equal(Space_Noti)
-        console.log("再現しました：アイコンが違っている")
+        console.log("再現しました：:アイコンが違っている")
 
     })
 });
