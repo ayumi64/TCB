@@ -5,7 +5,7 @@ var expect = require('chai').expect;
 // 测试数据
 var x1 = 1 
 var y1 = 1
-var r1 = 2
+var r1 = 21
 
 var x2 = 4
 var y2 = 5

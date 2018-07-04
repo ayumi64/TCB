@@ -11,7 +11,7 @@ let describe = require('./App_Create.js')
 let createApp = require('./App_Create.js')
 
 function printAppID(appid){
-    console.log("******** callback " + appid)
+    console.log("******** " + appid)
 }
 createApp(printAppID)
 // console.log(createApp.appid)
