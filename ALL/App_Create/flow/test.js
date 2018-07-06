@@ -11,14 +11,15 @@ describe('Kintone App Create Test', function () {
     before('App Create', function (done) {
         var Add = new App_Create
         Add.Create(done);
+
     })
 
     it('App Create', function (done) {
         var Dep = new App_Deploy
+
         setTimeout(function () {
             Dep.Deploy(done);
-        }, 5000);
-
+        }, 3000);
 
         Dep.Field();
     })

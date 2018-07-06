@@ -1,6 +1,6 @@
 var request = require('superagent');
 var host = require('../host/host.js')
 
-deploy =  (host+'/k/v1/preview/app/deploy.json');
+field =  ('/k/v1/preview/app/form/fields.json');
 
-module.exports = deploy;
+module.exports = field;

@@ -21,9 +21,8 @@ class AppCreate {
                 console.log(res.body);
                 expect(res.status).to.eql(200)
                 fs.writeFileSync('../data/id.json', '{' + '"app":' + res.body.app + '}')
-                done();
+                done();  //ensure done is called
             })
-        return this;
     }
 }
 

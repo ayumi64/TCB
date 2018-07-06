@@ -1,30 +1,35 @@
-let LoginFlow = require('../../Login/flow/flow.js');
-let TestData_Login = require('../../Login/data/data.js').dataMap;
-let TestData_Space = require('../data/data.js').dataMap;
-let SpaceCreate = require('../flow/flow.js')
+var App_Create = require('../flow/Create')
+var App_Deploy = require('../flow/Deploy')
 
-describe('Kintone Login Test', function () {
+request = require('superagent');
+require('superagent-proxy')(request);
+let expect = require('chai').expect;
+let assert = require('power-assert');
 
-    let testLogin = TestData_Login.get('login').info;
-    let testSpaceCreate = TestData_Space.get('SpaceCreateMulti').info;
+describe('Kintone App Create Test', function () {
 
-    it('Login', function () {
+    before('App Create', function (done) {
+        var Add = new App_Create
+        Add.Create(done);
+    })
 
-        let testFlow = new LoginFlow(testLogin)
+    it('App Create', function (done) {
+        var Dep = new App_Deploy
 
-        testFlow
-            .openBrowser()
-            .login()
-    }),
+        setTimeout(function () {
+            Dep.Deploy(done);
+        }, 3000);
 
-        it('Space Title Test', function () {
+        Dep.Field();
+    })
 
-            let testSpaceCreateFlow = new SpaceCreate(testSpaceCreate)
+})
 
-            testSpaceCreateFlow
-                .Create()
-                .verifyTittle()
+//command： mocha  test.js -t 5000 
 
-        }
-        )
-});
+
+/*
+setTimeout(function(){
+    console.log(1000000000);
+},0);
+*/
