@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "Prototype project for Slash RESTAPI test with tcb-api-rest",
+  "scripts": {
+    "eslint": "./node_modules/.bin/eslint ./src ./resources",
+    "test": "wdio"
+  },
+  "author": "cybozu",
+  "devDependencies": {
+    "comma-separated-values": "^3.6.4",
+    "eslint": "^4.18.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.5",
+    "mocha": "^5.2.0",
+    "mysql": "^2.15.0",
+    "shelljs": "^0.8.1",
+    "ssh-promise": "^2.1.0",
+    "tunnel-ssh": "^4.1.4",
+    "wdio-junit-reporter": "^0.4.2",
+    "wdio-mocha-framework": "^0.5.13",
+    "webdriverio": "4.8.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "power-assert": "^1.6.0",
+    "superagent": "^3.8.3",
+    "superagent-proxy": "^1.0.3"
+  }
+}

@@ -1,0 +1,81 @@
+{
+    "plugins": {
+      "falbbnnkamingpdclfkcgechjfncdfci": {
+        "staging": true,
+        "manifest_version": 1,
+        "version": 1,
+        "id": "falbbnnkamingpdclfkcgechjfncdfci",
+        "name": {
+          "ja": "AGaroonスケジュール連携",
+          "en": "AGaroon Scheduler Connector",
+          "zh": "AGaroon日程安排整合"
+        },
+        "description": {
+          "ja": "kintoneのアプリとGaroonのスケジュールを関連付けます。kintoneのアプリからGaroonの予定を閲覧したり、Garoonに予定を登録したりできます。",
+          "en": "Connect kintone to Garoon Scheduler. Display and add appointments to your Garoon Scheduler from kintone.",
+          "zh": "使用此插件可将业务云的记录与Garoon的日程安排关联起来。可通过业务云的记录查看Garoon的预定或直接将预定登记到Garoon。"
+        },
+        "icon": "icon.1.png",
+        "homepage_url": {
+          "ja": "http://cybozu.com",
+          "en": "http://kintone.com",
+          "zh": "http://cybozu.cn"
+        }
+      }
+    },
+    "jjchagboeljganepigmfbfaepolkndcf": {
+        "staging": false,
+        "manifest_version": 1,
+        "version": 1,
+        "id": "jjchagboeljganepigmfbfaepolkndcf",
+        "name": {
+          "ja": "B",
+          "en": "B",
+          "zh": "B"
+        },
+        "description": {
+          "ja": "kintoneのアプリとGaroonのスケジュールを関連付けます。kintoneのアプリからGaroonの予定を閲覧したり、Garoonに予定を登録したりできます。",
+          "en": "Connect kintone to Garoon Scheduler. Display and add appointments to your Garoon Scheduler from kintone.",
+          "zh": "使用此插件可将业务云的记录与Garoon的日程安排关联起来。可通过业务云的记录查看Garoon的预定或直接将预定登记到Garoon。"
+        },
+        "icon": "icon.1.png",
+        "homepage_url": {
+          "ja": "http://cybozu.com",
+          "en": "http://kintone.com",
+          "zh": "http://cybozu.cn"
+        }
+      },
+      "jldlhgbhknhaabhpefdkgpagodknbkic": {
+        "staging": false,
+        "manifest_version": 1,
+        "version": 1,
+        "id": "jldlhgbhknhaabhpefdkgpagodknbkic",
+        "name": {
+          "ja": "B",
+          "en": "B",
+          "zh": "B"
+        },
+        "description": {
+          "ja": "kintoneのアプリとGaroonのスケジュールを関連付けます。kintoneのアプリからGaroonの予定を閲覧したり、Garoonに予定を登録したりできます。",
+          "en": "Connect kintone to Garoon Scheduler. Display and add appointments to your Garoon Scheduler from kintone.",
+          "zh": "使用此插件可将业务云的记录与Garoon的日程安排关联起来。可通过业务云的记录查看Garoon的预定或直接将预定登记到Garoon。"
+        },
+        "icon": "icon.1.png",
+        "homepage_url": {
+          "ja": "http://cybozu.com",
+          "en": "http://kintone.com",
+          "zh": "http://cybozu.cn"
+        }
+      },
+    "regions": {
+      "jp": [
+        "falbbnnkamingpdclfkcgechjfncdfci",
+        "jjchagboeljganepigmfbfaepolkndcf",
+        "jldlhgbhknhaabhpefdkgpagodknbkic"
+        ],
+      "us": [
+      ],
+      "cn": [
+      ]
+    }
+  }
